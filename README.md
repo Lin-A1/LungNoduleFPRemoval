@@ -33,7 +33,7 @@ python classfier/moveMat.py
 ```
 python classfier/classfierMat.py
 ```
-![training_results](./Classification/classfier/training_results.png)
+<img src="./Classification/classfier/training_results.png" alt="training_results" style="zoom:50%;" />
 
 - 模型测试
 
@@ -41,7 +41,7 @@ python classfier/classfierMat.py
 python classfier/modelTest.py
 ```
 
-![evaluation_plots](./Classification/classfier/test_results/evaluation_plots.png)
+<img src="./Classification/classfier/test_results/evaluation_plots.png" alt="evaluation_plots" style="zoom: 50%;" />
 
 | 指标                      | 值          |
 | ------------------------- | ----------- |
