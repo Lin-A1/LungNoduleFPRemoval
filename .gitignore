@@ -1,0 +1,11 @@
+.*
+!.gitignore
+data/*
+Classification/classfier/makeMat/test_data/*
+Classification/classfier/makeMat/train_data/*
+Classification/classfier/model/*
+/LungNoduleFPRemoval/data/*
+*.raw
+*.pkl
+**/__pycache__/
+
