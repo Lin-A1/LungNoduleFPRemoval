@@ -1,23 +1,26 @@
 # LungNoduleFPRemoval
+
+---
+
+![Figure_1.png](Classification/classfier/test_results/Figure_1.png)
 肺结节假阳性剔除模型
 
 本次项目旨在完成肺结节假阳性的剔除，根本上属于三维图像的分类任务
 
 - 数据集
-```
-luna16
 
+使用的是lun16数据集，是一个用于肺结节检测和分析的医学影像数据集。它包含来自CT扫描的肺部影像，旨在帮助研究人员和开发者在肺结节识别、分类和分割等领域进行深度学习模型的训练和测试。数据集中提供了多种标注，包括结节的位置、大小和类型，便于进行细致的分析与研究。
+```
 分享下载链接：https://blog.csdn.net/weixin_48335963/article/details/120214931
 ```
 
 - 下载环境
-
 ```
 pip install -r requirements.txt
 ```
 
 - 数据集位置
-
+下载数据集合后存储在当前目录下的data路径下
 ```
 data
 ```
